@@ -1,2 +1,1 @@
-# Automatic-Number-Plate-Recognition
-AI PROJECT
+# Automatic-Number-Plate-Recognition using EasyOCR
